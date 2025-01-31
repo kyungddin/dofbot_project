@@ -1,2 +1,2 @@
 # dofbot_project
-knowlege to control dofbot
+knowledge to control dofbot
